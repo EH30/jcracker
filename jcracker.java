@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.BufferedReader;
 
-public class jforce{
+public class jcracker{
 
     public static String os = System.getProperty("os.name").toLowerCase();
 
@@ -94,7 +94,7 @@ public class jforce{
         try {
             read_file(args[0], args[1]);
         } catch (java.lang.IndexOutOfBoundsException e) {
-            System.out.println("Usege: java jforce [wdlist] [hash]");
+            System.out.println("Usege: java jcracker [You're wdlist] [You're hash]");
         }
     }
 
