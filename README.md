@@ -1,4 +1,4 @@
-# jwdilsthashcracker   
+# jcracker   
 Simple Script wrtiten in java to crack hashes using wdlist file
 
 
